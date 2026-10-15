@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+qdrant-client
+pypdf
+python-docx
+openai
+fastembed
+onnxruntime
+docx2txt
+pytest
