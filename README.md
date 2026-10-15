@@ -1,5 +1,5 @@
 🌿 GreenLeaf Residency Helpdesk
-An AI-powered helpdesk that gives residents instant, source-backed answers from their society's official documents.
+
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-1C3C3C)
